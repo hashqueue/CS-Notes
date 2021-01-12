@@ -1,1 +1,1 @@
-# Computer Science and Technology Notes
+# 计算机科学与技术学习笔记
