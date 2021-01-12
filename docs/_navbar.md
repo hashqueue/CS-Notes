@@ -1,4 +1,4 @@
-- 📓 分类
+- 📚 分类
   - [💻 计算机基础](computer-basics/README.md)
   - [🖥️ 操作系统](operating-system/README.md)
   - [🌐 计算机网络](computer-network/README.md)
