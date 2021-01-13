@@ -11,3 +11,12 @@
 - 计算机组成原理之组成篇
   - [08 计算机总线](computer-basics/08计算机总线.md)
   - [09 计算机的输入输出设备](computer-basics/09计算机的输入输出设备.md)
+  - [10 计算机存储器概览](computer-basics/10计算机存储器概览.md)
+  - [11 计算机的主存储器与辅助存储器](computer-basics/11计算机的主存储器与辅助存储器.md)
+  - [12 计算机的高速缓存](computer-basics/12计算机的高速缓存.md)
+  - [13 计算机的指令系统](computer-basics/13计算机的指令系统.md)
+  - [14 计算机的控制器](computer-basics/14计算机的控制器.md)
+  - [15 计算机的运算器](computer-basics/15计算机的运算器.md)
+  - [16 计算机指令的执行过程](computer-basics/16计算机指令的执行过程.md)
+  - [17 计算机的异构计算设备](computer-basics/17计算机的异构计算设备.md)
+  - [18 计算机组成原理之组成篇知识总结](computer-basics/18计算机组成原理之组成篇知识总结.md)
